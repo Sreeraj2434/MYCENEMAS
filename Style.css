@@ -1,0 +1,66 @@
+img {
+    im a
+}
+h1 {
+    text-align: center;
+}
+
+body
+{
+    background-color: black;
+    
+    
+    font-style:inherit
+}
+
+h2{
+    color: red; background-color: whitesmoke;
+}
+
+#birthdaytime {
+background-color: brown;
+color: ivory;
+}
+
+#Date {
+    color: ivory;
+}
+#movielist {
+ color: ivory;
+}
+#showtime {
+    color: ivory;
+}
+#movie {
+    color: ivory;
+}
+.address  {
+   color: ivory; background-color: #c50e0e;
+}
+
+
+#tables {
+    background-color: brown;
+}
+
+.sree {
+    background-color: brown;
+}
+
+
+    .div-1 {
+        color: #c50e0e;
+        background-color: #c50e0e;
+        font-size: large;
+    }
+    #logo2 {
+        position: absolute;
+        top: 8px;
+        right: 16px;
+    }
+    h4{
+        color: ivory;
+        position: relative;
+        text-align: center;
+        font-size: xx-large;
+    }
